@@ -1,0 +1,1 @@
+This project implements authentication and authorization using Spring Security with JWT, with user data stored in MySQL. It secures REST APIs with token-based authentication, providing role-based access control and secure API communication. The project demonstrates Spring Boot integration with JWT and MySQL for secure user management.
